@@ -1,1 +1,1 @@
-One of Aether's mid-tier tools, the attack damage on this sword starts at wood level, and will get to Diamond level when it's durability is low.
+Un outil standard, plus puissant que son équivalent en pierre, plus elle est abîmée plus elle est puissante.

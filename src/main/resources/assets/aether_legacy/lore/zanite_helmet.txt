@@ -1,1 +1,1 @@
-Part of the Zanite Armor set, the protection it grants increases as the durabillity decreases.
+Partie de l'Armure en Zanite, plus elle est abîmée, plus elle est résistante.
