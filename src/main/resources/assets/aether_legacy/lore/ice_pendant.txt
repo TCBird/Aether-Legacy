@@ -1,1 +1,1 @@
-A pendant which allows you to freeze water, and lava when walked on.
+Un pendentif vous permettant de geler l'eau et la lave quand vous marchez dessus.

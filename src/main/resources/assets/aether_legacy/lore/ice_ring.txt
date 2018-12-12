@@ -1,1 +1,1 @@
-A ring which allows you to freeze water, and lava when walked on.
+Un anneau vous permettant de geler l'eau et la lave quand vous marchez dessus.

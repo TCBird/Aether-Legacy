@@ -1,0 +1,1 @@
+Sarbacane pouvant tirer des Fléchettes Empoisonnées, tirer sur un monstre avec cette Sarbacane l'empoisonnera.

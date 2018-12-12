@@ -1,1 +1,1 @@
-Skyroot Log which contains Golden Amber inside. When broken with an Axe they drop Skyroot Logs, and if the Axe is Gravitite, they will drop Golden Amber.
+Bûche Céleste contenant des Ambres d'Or, les Ambres d'Or peuvent être obtenues avec une Hache en Gravitite.
